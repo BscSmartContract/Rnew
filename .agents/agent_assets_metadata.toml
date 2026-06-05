@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "G9nxRyn9m3JhUPe42M0r9"
+uri = "file://EduPress-debug.tar.gz"
+type = "unspecified"
+title = "EduPress-debug.apk (inside this archive)"
